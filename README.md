@@ -7,6 +7,7 @@ This repository contains the code used for processing minutely geomagnetic data 
 The scripts in this repository reproduce the analysis described in:
 
 > Nel, A.E. et al., "First Results from the Entoto Magnetometer Station: Isolating the Equatorial Electrojet and Storm-Time Responses," *Journal Name*, Year, DOI: [your-paper-DOI]
+> The data is available at https://doi.org/10.5281/zenodo.17159082
 
 They are provided to support reproducibility and reuse for future EEJ research in Africa and beyond.
 
